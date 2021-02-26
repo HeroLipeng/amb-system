@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="guns-main" />
+        <module name="amiba-organize" />
+        <module name="guns-tenant" />
+        <module name="guns-system" />
+        <module name="amb-organize" />
+        <module name="guns-dbs" />
+        <module name="baic-data-base" />
+        <module name="guns-pay" />
+        <module name="guns-flowable" />
+        <module name="guns-core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="amb-manage" target="1.8" />
+      <module name="amb-organize" target="1.8" />
+      <module name="amiba-manage" target="1.8" />
+      <module name="amiba-organize" target="1.8" />
+      <module name="baic-data" target="1.8" />
+      <module name="baic-data-base" target="1.8" />
+      <module name="baic-data-base-sys" target="1.8" />
+      <module name="baic-data-system" target="1.8" />
+      <module name="guns-base-support" target="1.8" />
+      <module name="guns-core" target="1.8" />
+      <module name="guns-dbs" target="1.8" />
+      <module name="guns-flowable" target="1.8" />
+      <module name="guns-main" target="1.8" />
+      <module name="guns-pay" target="1.8" />
+      <module name="guns-separation-ent" target="1.8" />
+      <module name="guns-system" target="1.8" />
+      <module name="guns-tenant" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="amb-manage" options="" />
+      <module name="amb-organize" options="-parameters" />
+      <module name="amiba-manage" options="-parameters" />
+      <module name="amiba-organize" options="-parameters" />
+      <module name="baic-data" options="" />
+      <module name="baic-data-base" options="-parameters" />
+      <module name="baic-data-base-sys" options="-parameters" />
+      <module name="baic-data-system" options="" />
+      <module name="guns-core" options="-parameters" />
+      <module name="guns-dbs" options="-parameters" />
+      <module name="guns-flowable" options="-parameters" />
+      <module name="guns-main" options="-parameters" />
+      <module name="guns-pay" options="-parameters" />
+      <module name="guns-system" options="-parameters" />
+      <module name="guns-tenant" options="-parameters" />
+    </option>
+  </component>
+</project>

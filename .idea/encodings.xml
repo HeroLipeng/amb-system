@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/amb-manage/amb-organize/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guns-base-support/guns-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guns-base-support/guns-dbs/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guns-base-support/guns-flowable/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guns-base-support/guns-flowable/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guns-base-support/guns-flowable/src/main/webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guns-base-support/guns-pay/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guns-base-support/guns-system/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guns-base-support/guns-tenant/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/guns-main/src/main/java" charset="UTF-8" />
+  </component>
+</project>
